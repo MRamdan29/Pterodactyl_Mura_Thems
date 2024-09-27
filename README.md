@@ -2,7 +2,7 @@
 
 Install script:
 ```sh
-bash <(curl https://raw.githubusercontent.com/NoPro200/Pterodactyl_Nightcore_Theme/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/Mramdan29/Pterodactyl_Mura_Thems/main/install.sh)
 ```
 
 ---
