@@ -1,4 +1,4 @@
-# Pterodactyl Nightcore Theme
+# Pterodactyl MuraTheme
 
 Install script:
 ```sh
