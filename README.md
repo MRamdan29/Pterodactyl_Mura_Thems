@@ -1,4 +1,4 @@
-# Pterodactyl MuraTheme
+# Pterodactyl Mura Themes
 
 Install script:
 ```sh
